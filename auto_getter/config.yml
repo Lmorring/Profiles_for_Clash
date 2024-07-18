@@ -10,17 +10,17 @@ profiles-sources:
     preprocessing: true
 
 
-  - name: 'Public from FQD'
-    sources:
-      tg-channels:
-        - 'ssList'
-        - 'ssrList'
-        - 'V2List'
+  # - name: 'Public from FQD'
+  #   sources:
+  #     tg-channels:
+  #       - 'ssList'
+  #       - 'ssrList'
+  #       - 'V2List'
 
-  - name: 'Public from DU5'
-   sources:
-      files:
-        - 'https://raw.githubusercontent.com/du5/free/master/sub.list'
+  # - name: 'Public from DU5'
+  #  sources:
+  #     files:
+  #       - 'https://raw.githubusercontent.com/du5/free/master/sub.list'
 
   - name: 'Public from oneClash'
     sources:
